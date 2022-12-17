@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 Currently a Software Engineering student @ NJU
+- 🧩 Game modding rookie
+- 🎵 Live & Learn
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=52871299hzy)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=52871299hzy&exclude_repo=BasisOJ)](https://github.com/anuraghazra/github-readme-stats)
